@@ -1,1 +1,68 @@
-this is readme
+[?1049h[22;0;0t[>4;2m[?1h=[?2004h[1;30r[?12h[?12l[22;2t[22;1t[27m[23m[29m[m[H[2J[?25l[30;1H"root@95a0bf5849bf:~/alx-low_level_programming#" [New DIRECTORY][2;1H[1m[34m~                                                                                            [3;1H~                                                                                            [4;1H~                                                                                            [5;1H~                                                                                            [6;1H~                                                                                            [7;1H~                                                                                            [8;1H~                                                                                            [9;1H~                                                                                            [10;1H~                                                                                            [11;1H~                                                                                            [12;1H~                                                                                            [13;1H~                                                                                            [14;1H~                                                                                            [15;1H~                                                                                            [16;1H~                                                                                            [17;1H~                                                                                            [18;1H~                                                                                            [19;1H~                                                                                            [20;1H~                                                                                            [21;1H~                                                                                            [22;1H~                                                                                            [23;1H~                                                                                            [24;1H~                                                                                            [25;1H~                                                                                            [26;1H~                                                                                            [27;1H~                                                                                            [28;1H~                                                                                            [29;1H~                                                                                            [m[30;76H0,0-1[9CAll[1;1H[?25h[?25l[30;1H[1m-- INSERT --[m[30;13H[K[30;76H2,1[11CAll[1;1Hremote:   https://github.com/mano224/alx-low_level_programming.git
+To https://github.com/Mano224/alx-low_level_programming.git[2;60H[K[3;1H   7ab8d46..8b6d3bd  master -> master[3;38H[K[4;1Hroot@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# vi 2-assembler[4;79H[K[5;1Hroot@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# chmod +x 2-assembler[5;85H[K[6;1Hroot@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# git add .[6;74H[K[7;1Hroot@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# git commit -m 'hks'[7;84H[K[8;1H[master ee976af] hks[8;21H[K[9;1H 1 file changed, 2 insertions(+)[9;33H[K[10;1H create mode 100755 0x00-hello_world/2-assembler[10;49H[K[11;1Hroot@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# git push[11;73H[K[12;1HEnumerating objects: 6, done.[12;30H[K[13;1HCounting objects: 100% (6/6), done.[13;36H[K[14;1HDelta compression using up to 2 threads[14;40H[K[15;1HCompressing objects: 100% (4/4), done.[15;39H[K[16;1HWriting objects: 100% (4/4), 445 bytes | 445.00 KiB/s, done.[16;61H[K[17;1HTotal 4 (delta 1), reused 0 (delta 0)[17;38H[K[18;1Hremote: Resolving deltas: 100% (1/1), completed with 1 local object.[18;69H[K[19;1Hremote: This repository moved. Please use the new location:[19;60H[K[20;1Hremote:   https://github.com/mano224/alx-low_level_programming.git[20;67H[K[21;1HTo https://github.com/Mano224/alx-low_level_programming.git[21;60H[K[22;1H   8b6d3bd..ee976af  master -> master[22;38H[K[23;1Hroot@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# vi[23;67H[K[24;1H[K[30;76H124,1[9CBot[24;1H[?25h[?25lc[30;80H2[24;2H[?25h[?25ll[30;80H3[24;3H[?25h[?25lr[30;80H4[24;4H[?25h[?25l[24;3H[K[30;80H3[24;3H[?25h[?25l[24;2H[K[30;80H2[24;2H[?25h[?25l[24;1H[K[30;80H1[24;1H[?25h[?25l[1m[34m~                                                                                            [m[30;78H3,67[23;67H[?25h[?25l[23;66H[K[30;81H6[23;66H[?25h[?25l[23;65H[K[30;81H5[23;65H[?25h[?25l[30;81H4[23;64H[?25h[?25l[23;63H[K[30;81H3[23;63H[?25h[?25l[23;62H[K[30;81H2[23;62H[?25h[?25l[23;61H[K[30;81H1[23;61H[?25h[?25l[23;60H[K[30;81H0[23;60H[?25h[?25l[23;59H[K[30;80H59[23;59H[?25h[?25l[23;58H[K[30;81H8[23;58H[?25h[?25l[23;57H[K[30;81H7[23;57H[?25h[?25l[23;56H[K[30;81H6[23;56H[?25h[?25l[23;55H[K[30;81H5[23;55H[?25h[?25l[23;54H[K[30;81H4[23;54H[?25h[?25l[23;53H[K[30;81H3[23;53H[?25h[?25l[23;52H[K[30;81H2[23;52H[?25h[?25l[23;51H[K[30;81H1[23;51H[?25h[?25l[23;50H[K[30;81H0[23;50H[?25h[?25l[23;49H[K[30;80H49[23;49H[?25h[?25l[23;48H[K[30;81H8[23;48H[?25h[?25l[23;47H[K[30;81H7[23;47H[?25h[?25l[23;46H[K[30;81H6[23;46H[?25h[?25lc[30;81H7[23;47H[?25h[?25ll[30;81H8[23;48H[?25h[?25le[30;81H9[23;49H[?25h[?25la[30;80H50[23;50H[?25h[?25lr[30;81H1[23;51H[?25h[?25l[24;1H[K[30;78H4,1 [24;1H[?25h[?25l[25;1H[K[30;78H5[25;1H[?25h[?25l[26;1H[K[30;78H6[26;1H[?25h[?25l[27;1H[K[30;78H7[27;1H[?25h[?25l[28;1H[K[30;78H8[28;1H[?25h[?25ld[30;80H2[28;2H[?25h[?25lf[30;80H3[28;3H[?25h[?25lg[30;80H4[28;4H[?25h[?25ldf[30;80H6[28;6H[?25h[?25lg[30;80H7[28;7H[?25h[?25li[30;80H8[28;8H[?25h[?25li[30;80H9[28;9H[?25h[30;1H[K[28;8H[?25l[30;66H^[[28;8H[30;66H  [28;9H[30;76H128,8[9CBot[28;8H[?25h[?25l[30;66H^[[28;8H[30;66H  [28;8H[30;66H^[[28;8H[30;66H  [28;8H[?25h[?25l[30;66H^[[28;8H[30;66H  [28;8H[30;66H^[[28;8H[30;66H  [28;8H[?25h[?25l[30;66H^[[28;8H[30;66H  [28;8H[30;66H^[[28;8H[30;66H  [28;8H[?25h[?25l[30;66Hq[28;8H[?25h[?25l[30;67Hq[28;8H
+
+[1mrecording @q[m[30;66H[K[30;76H128,8[9CBot[28;8H[?25h[?25l[30;66Hq[28;8H[30;1H[K[28;8H[30;76H128,8[9CBot[28;8H[?25h[?25l[30;66H^[[28;8H[30;66H  [28;8H[30;66H^[[28;8H[30;66H  [28;8H[?25h[?25l[30;66H^[[28;8H[30;66H  [28;8H[30;66H^[[28;8H[30;66H  [28;8H[?25h[?25l[30;66He[28;8H[30;66H [28;8H[?25h[?25l
+
+[1m-- INSERT --[m[30;76H[K[30;76H129,1[9CBot[30;1H[K[1;9HThis repository moved. Please use the new location:[1;60H[K[2;1Hremote:   https://github.com/mano224/alx-low_level_programming.git
+To https://github.com/Mano224/alx-low_level_programming.git
+   7ab8d46..8b6d3bd  master -> master[4;38H[K[5;65Hvi 2-assembler[5;79H[K[6;65Hchmod +x 2-assembler[7;69Hadd .[7;74H[K[8;1Hroot@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# git commit -m 'hks'
+[master ee976af] hks[9;21H[K[10;2H1 file changed, 2 insertions(+)[10;33H[K[11;1H create mode 100755 0x00-hello_world/2-assembler[11;49H[K[12;1Hroot@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# git push
+Enumerating objects: 6, done.[13;31H[K[14;1HCounting objects: 100% (6/6), done.[14;36H[K[15;1HDelta compression using up to 2 threads
+Compressing objects: 100% (4/4), done.[16;40H[K[17;1HWriting objects: 100% (4/4), 445 bytes | 445.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)[18;39H[K[19;9HResolving deltas: 100% (1/1), completed with 1 local object.[20;9HThis repository moved. Please use the new location:[20;60H[K[21;1Hremote:   https://github.com/mano224/alx-low_level_programming.git
+To https://github.com/Mano224/alx-low_level_programming.git
+   8b6d3bd..ee976af  master -> master[23;38H[K[24;1Hroot@95a0bf5849bf:~/alx-low_level_programmingclear[28;1H[K[29;1Hdfgdfgii[29;9H[K[30;76H255,8[9CBot[29;8H[?25h[?25l[30;66H/[29;8H[30;66H[K[30;1H/[?2004h[?25hf[?25l[27m[23m[29m[m[H[2J[2;1Ht@95a0b[7mf[m5849bf:~/alx-low_level_programming# ls
+README.md
+root@95a0bf5849bf:~/alx-low_level_programming# mkdir 0x00-hello_world
+root@95a0bf5849bf:~/alx-low_level_programming# cd 0x00-hello_world
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world#  echo "this is readme">READMEE[7;1H.md
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# ls
+README.md
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# vi 0-preprocessor
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# chmod +x 0-preprocessor
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# cd -
+/root/alx-low_level_programming
+root@95a0bf5849bf:~/alx-low_level_programming# git add .
+root@95a0bf5849bf:~/alx-low_level_programming# git commit -m 'jhj'
+[master (root-commit) 1fa68d3] jhj
+ 3 files changed, 4 insertions(+)
+ create mode 100755 0x00-hello_world/0-preprocessor
+ create mode 100644 0x00-hello_world/README.md
+ create mode 100644 README.md
+root@95a0bf5849bf:~/alx-low_level_programming# git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (6/6), 414 bytes | 414.00 KiB/s, done.
+Total 6 (delta 0), reused 0 (delta 0)
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/mano224/alx-low_level_programming.git[30;76H2,8[11CTop/f[30;76H[K[30;3H[?25he[?25l[27m[23m[29m[m[H[2J[1;1Hremote: This repository moved. Please use the new location:
+remote:   https://github.com/mano224/alx-low_level_programming.git
+To https://github.com/Mano224/alx-low_level_programming.git
+   7ab8d46..8b6d3bd  master -> master
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# vi 2-assembler
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# chmod +x 2-assembler
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# git add .
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# git commit -m 'hks'
+[master ee976af] hks
+ 1 file changed, 2 insertions(+)
+ create mode 100755 0x00-hello_world/2-assembler
+root@95a0bf5849bf:~/alx-low_level_programming/0x00-hello_world# git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 2 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 445 bytes | 445.00 KiB/s, done.
+Total 4 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+remote: This repository moved. Please use the new location:
+remote:   https://github.com/mano224/alx-low_level_programming.git
+To https://github.com/Mano224/alx-low_level_programming.git
+   8b6d3bd..ee976af  master -> master
+root@95a0bf5849bf:~/alx-low_level_programmingclear[29;1Hdfgdfgii[30;76H255,8[9CBot/fe[30;76H[K[30;4H[?25ha[?25l[71C255,8[9CBot[30;76H[K[30;5H[?25hg[?25l[70C255,8[9CBot[30;76H[K[30;6H[?25hsd[?25l[68C255,8[9CBot[30;76H[K[30;8H[?25has[?25l[66C255,8[9CBot[30;76H[K[30;10H[?25ho[?25l[65C255,8[9CBot[30;76H[K[30;11H[?25ha[?25l[64C255,8[9CBot[30;76H[K[30;12H[?25hf[?25l[63C255,8[9CBot[30;76H[K[30;13H[?25ho[?25l[62C255,8[9CBot[30;76H[K[30;14H[?25hif[?25l[60C255,8[9CBot[30;76H[K[30;16H[?25hp[?25l[59C255,8[9CBot[30;76H[K[30;17H[?25hlk[?25l[57C255,8[9CBot[30;76H[K[30;19H[?25hjk[?25l[55C255,8[9CBot[30;76H[K[30;21H[?25hj[?25l[54C255,8[9CBot[30;76H[K[30;22H[?25hk[?25l[53C255,8[9CBot[30;76H[K[30;23H[?25h[?25l[30;1H[K[29;8H[30;76H255,8[9CBot[29;8H[?25h[?25l[30;66Hj[29;8H[30;66H [29;8H[?25h[?25l[30;66Hk[29;8H[30;66H [28;1H[30;78H4,0-1[28;1H[?25h[?25l[30;66Hd[28;1H[?25h[?25l[30;67Hd[28;1H[30;66H  [28;1Hdfgdfgii
+[1m[34m~                                                                                            [m[30;80H1  [28;1H[?25h[?25l[30;66Hw[28;1H[30;66H [28;8H[30;80H8[28;8H[?25h[?25l[30;66He[28;8H[30;66H [28;8H[?25h[?25l[30;66Hd[28;8H[?25h[?25l[30;67Hw[28;8H[30;66H  [28;7H[28;8H[K[30;80H7[28;7H[?25h[?25l[30;66Hd[28;7H[?25h[?25l[30;67Ha[28;7H[?25h[?25l[30;68Ha[28;7H[30;66H   [28;7H[?25h[?25l[30;66Hq[28;7H[?25h[?25l
+
+[1mrecording @q[m[30;66H[K[30;76H254,7[9CBot[28;7H[?25h[?25l[30;66Hw[28;7H[30;66H [28;7H[?25h[?25l[30;66Hs[28;7H[30;66H [28;7H[30;66Hcl[28;7H[30;66H  [28;7H
+
+[1m--c INSERT --[m [1mrecording @q[m[30;76H[K[30;76H254,7[9CBot[28;7H[K[28;7H[?25h[?25lw[30;80H8[28;8H[?25h[?25le[30;80H9[28;9H[?25h[?25lw[30;80H10[28;10H[?25h[?25le[30;81H1[28;11H[?25h[?25lw[30;81H2[28;12H[?25h[?25lw[30;81H3[28;13H[?25h[?25le[30;81H4[28;14H[?25h[?25lw[30;81H5[28;15H[?25h
