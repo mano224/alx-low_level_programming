@@ -3,7 +3,7 @@
 /**
  * main -Entry point
  *
- * description: print all alphabet letters except q and e
+ * description: print all single digit numbers of base 10 starting from 0
  *
  * Return: Always 0 (Success)
  */
@@ -13,7 +13,7 @@ int main(void)
 
 	for (d = 0; d <= 9; d++)
 	{
-		putchar(d + '0');
+		putchar(d + 48);
 	}
 	putchar('\n');
 
