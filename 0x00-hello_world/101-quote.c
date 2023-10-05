@@ -1,9 +1,12 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - main function
+ * main - Enrty point
  *
- * Return
+ * Description: print aqoute using write function
+ *      write(int fd.const void *buf.size_t count)
+ *
+ * Return: 1 (not success)
  */
 int main(void)
 {
