@@ -21,12 +21,16 @@ void times_table(void)
 		{
 			result = i * j;
 			if (j == 0)
-				printf("%d ", result);
+				_putchar(' ');
+				_putchar(result + 48);
 			else
-				printf("%2d", result);
+				_putchar(' ');
+			_putchar(' ');
+				_putchar(result + 48);
 			if (j != 9)
-				printf(", ");
+				_putchar(',');
+			_putchar(' ');
 		}
-		printf("\n");
+		_putchar('\n');
 	}
 }
