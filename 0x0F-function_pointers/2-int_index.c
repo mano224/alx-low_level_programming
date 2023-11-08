@@ -17,5 +17,5 @@ while (i < size)
 		return (i);
 	i++;
 }
-retyrn (-1);
+return (-1);
 }
