@@ -1,4 +1,3 @@
-
 #include "dog.h"
 
 /**
@@ -7,6 +6,8 @@
 * @name: name to initialize
 * @age: age to initialize
 * @owner: owner to initialize
+*
+* Retur: void.
 */
 void init_dog(struct dog *d, char *name, float age, char *owner)
 {
